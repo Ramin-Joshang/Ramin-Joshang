@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ramin-Joshang
+- 👋 Hi, I’m Ramin Joshang
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning react-js
 - 💞️ I’m looking to collaborate on ...
