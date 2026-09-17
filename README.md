@@ -1,213 +1,156 @@
-<!-- ==================================================================================================
-  ** R A M I N  J O S H A N G **
-  ====================================================================================================
-  This README is architected to reflect a premium, modern developer brand.
-  Built with precision, designed for impact. Visual identity: Graphite Dark, Electric Violet, Frost White.
-  ==================================================================================================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=220&section=header&text=Ramin%20Joshang&fontSize=70&fontColor=FFFFFF&animation=twinkling&desc=Full%20Stack%20Engineer&descSize=20&descAlignY=70" width="100%" />
+</div>
 
-<!-- ==============================
-  HEADER: Dynamic Identity Render
-  ============================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:4A00E0&height=220&section=header&text=RAMIN%20JOSHANG&fontSize=80&fontColor=FFFFFF&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20|%20JS/TS%20SPECIALIST&descSize=22&descAlignY=70" width="100%" alt="Ramin Joshang Header" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8E2DE2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%26+Next.js+Specialist;Building+Scalable+Web+Apps;TypeScript+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://joshang.ir" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=8E2DE2" alt="Portfolio" /></a>
+  <a href="mailto:rjwshng@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=8E2DE2" alt="Email" /></a>
+  <a href="https://t.me/RaminJoshang" target="_blank"><img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=8E2DE2" alt="Telegram" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=8E2DE2" alt="LinkedIn" /></a>
+</div>
+
+<br/>
+
+## ✦ Engineering Identity
+
+I am a Full Stack Developer with nearly 3 years of professional experience, focusing on responsive, user-centric web applications. I specialize in the modern JavaScript/TypeScript ecosystem, building resilient frontends with React.js, Next.js, and GraphQL, paired with robust backends utilizing Node.js, Express, SQL Server, and MongoDB. 
+
+My engineering philosophy centers on clean code architecture, scalable component design, and bridging the gap between sophisticated UI/UX and complex backend systems. I actively explore cutting-edge web technologies and am deeply passionate about open-source contributions and continuous problem-solving.
+
+---
+
+## ✦ Technical Arsenal
+
+### Architecture & Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/GraphQL-111111?style=for-the-badge&logo=graphql&logoColor=E10098" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=nodedotjs&logoColor=8E2DE2" alt="REST API" />
 </p>
 
-<div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=8E2DE2&center=true&vCenter=true&width=500&lines=Full+Stack+Architect;React%20%26%20Next.js+Expert;UI%2FUX+Pixel-Perfectionist;Building+Scalable+Web%C2%A0Apps" alt="Typing SVG" />
-  </h1>
-</div>
+### Frontend Ecosystem
+<p align="left">
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-111111?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-111111?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn" />
+  <img src="https://img.shields.io/badge/Material--UI-111111?style=for-the-badge&logo=mui&logoColor=007FFF" alt="MUI" />
+  <img src="https://img.shields.io/badge/Ant_Design-111111?style=for-the-badge&logo=antdesign&logoColor=0170FE" alt="Ant Design" />
+</p>
 
-<!-- ==============================
-  CORE STATS & CONTACT BAR
-  ============================== -->
-<div align="center" style="margin: 30px 0;">
-  <img src="https://img.shields.io/badge/Based%20in-Qazvin%2C%20Iran-111111?style=for-the-badge&logo=googlemaps&logoColor=8E2DE2" alt="Location" />
-  <a href="https://joshang.ir" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-joshang.ir-111111?style=for-the-badge&logo=google-chrome&logoColor=8E2DE2" alt="Portfolio" />
-  </a>
-  <a href="mailto:rjwshng@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rjwshng@gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=8E2DE2" alt="Email" />
-  </a>
-  <a href="https://t.me/RaminJoshang" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@RaminJoshang-111111?style=for-the-badge&logo=telegram&logoColor=8E2DE2" alt="Telegram" />
-  </a>
-  <a href="www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=8E2DE2" alt="LinkedIn" />
-  </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Ramin-Joshang&label=Profile%20Views&color=4A00E0&style=flat-square&abbreviate=true" alt="Profile Views" style="margin-top: 10px;" />
-</div>
-
----
-
-<!-- ==============================
-  SECTION: Engineering Philosophy
-  ============================== -->
-## 🏛️ Engineering Philosophy
-
-<div align="center">
-  <blockquote>
-    <h3>I architect digital experiences that merge aesthetic precision with robust functionality.</h3>
-    With ~3 years of professional immersion in the <b>JavaScript/TypeScript</b> ecosystem, I specialize in turning complex requirements into intuitive, high-performance applications. My focus spans the entire stack, from crafting pixel-perfect UIs with <b>React & Next.js</b> to building scalable backend services via <b>Node.js</b>. I am driven by clean code principles, continuous learning, and delivering tangible value through open-source contributions and side projects.
-  </blockquote>
-</div>
-
----
-
-<!-- ==============================
-  SECTION: Technical Arsenal
-  ============================== -->
-## 🛠️ Technical Arsenal
-
-A curated stack focused on modern web development, performance, and maintainability.
-
-<p align="center">
-  <!-- CORE LANGUAGES -->
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <br/>
-  
-  <!-- FRONTEND FRAMEWORKS & LIBRARIES -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <br/>
-  
-  <!-- UI & STYLING -->
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/mui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="Material-UI" />
-  <img src="https://img.shields.io/badge/AntDesign-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design" />
-  <br/>
-
-  <!-- BACKEND & API -->
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=openapi-initiative&logoColor=white" alt="REST API" />
-  <br/>
-
-  <!-- DATABASES & INFRA -->
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" alt="AWS" />
-  <br/>
-
-  <!-- TOOLS & DESIGN -->
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="Prettier" />
+### Backend & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="Postgres" />
+  <img src="https://img.shields.io/badge/SQL_Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=232F3E" alt="AWS" />
 </p>
 
 ---
 
-<!-- ==============================
-  SECTION: Professional Odyssey
-  ============================== -->
-## 💼 Professional Odyssey
+## ✦ Professional Trajectory
 
-A chronological view of my growth and impact as a Frontend Developer.
-
-| Timeline | Company | Role | Location |
-| :--- | :--- | :--- | :--- |
-| **Jan 2024 – Present** | Techa | Frontend Developer | Qazvin, Iran |
-| **Aug 2023 – Present** | Barazman | Junior Frontend Developer | Qazvin, Iran |
-| **2022** | Adam Barfi | Frontend Intern | Qazvin, Iran |
-
-### Key Contributions & Impact
-
-**Techa (Jan 2024 – Present)**
-*   Engineered and maintained the core “Techa” programming education platform, focusing on highly interactive and responsive UI components for an optimal learning experience.
-*   Architected professional web-based tools for real-time monitoring of SQL Server database structures, stored procedures, and tables.
-*   Developed a feature-rich customer loyalty club, integrating seamless RESTful APIs to drive user engagement and retention.
-*   Executed rigorous performance optimizations and ensured cross-browser compatibility across all developed applications.
-
-**Barazman (Aug 2023 – Present)**
-*   Led frontend development initiatives for the “Sanjab” customer club, collaborating closely with UI/UX designers to deliver intuitive interfaces.
-*   Shipped multiple high-performance web applications, including a wholesale egg trading platform and an educational management system.
-*   Acted as a bridge in cross-functional teams, integrating complex backend APIs, debugging critical issues, and maintaining a clean, scalable codebase.
-
-**Adam Barfi (2022)**
-*   Designed and developed the “Lovino” law firm website, implementing a mobile-first responsive approach.
-*   Built a personal brand platform for a mathematics instructor, prioritizing clear content accessibility and smooth navigation.
-*   Gained foundational experience in transforming design mockups into functional, accessible, and responsive web pages.
-*   Participated actively in code reviews, absorbing UI development best practices and agile workflows.
+| Role & Timeline | Organization | Impact & Responsibilities |
+| :--- | :--- | :--- |
+| **Frontend Developer**<br/>`Jan 2024 – Apr 2026` | **Techa**<br/>*Qazvin, Iran* | • Engineered the "Techa" programming education platform using Next.js and interactive components.<br/>• Developed professional web-based tools for monitoring SQL Server stored procedures, tables, and database structures.<br/>• Built a dynamic customer loyalty club integrating seamless RESTful APIs to maximize user engagement. |
+| **Junior Frontend Dev**<br/>`Aug 2023 – Oct 2025` | **Barazman**<br/>*Qazvin, Iran* | • Led frontend architecture for the "Sanjab" customer club, collaborating closely with UX designers.<br/>• Delivered multiple high-performance web applications, including a wholesale egg trading platform and an educational management system. |
+| **Frontend Intern**<br/>`2022` | **Adam Barfi**<br/>*Qazvin, Iran* | • Developed a mobile-first website for the "Lovino" law firm and an educational platform for a mathematics instructor.<br/>• Translated complex design mockups into fully functional, responsive user interfaces. |
 
 ---
 
-<!-- ==============================
-  SECTION: Featured Build
-  ============================== -->
-## 🚀 Featured Build
+## ✦ Featured Platforms
 
-A showcase of significant projects demonstrating technical execution and product focus.
-
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="50%">
-      <h3>Techa Education Platform</h3>
-      <p>A modern programming school designed for engagement. Built with Next.js for SSR/SEO and highly interactive UI components.</p>
-      <a href="https://techa.ir" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-Techa.ir-8E2DE2?style=flat-square&logo=vercel" alt="Techa Live" /></a>
+    <td width="50%" valign="top">
+      <h3>🎓 Techa Education Platform</h3>
+      <p>A modern programming school ecosystem designed to deliver an engaging, interactive coding curriculum.</p>
+      <p><strong>Stack:</strong> Next.js</p>
+      <a href="https://techa.ir"><img src="https://img.shields.io/badge/Live_Deployment-111111?style=for-the-badge&logo=vercel&logoColor=8E2DE2" /></a>
     </td>
-    <td align="center" width="50%">
-      <h3>Sanjab Customer Club</h3>
-      <p>Comprehensive loyalty platform enabling businesses to manage rewards. <em>Business Panel: Vue.js. Customer PWA: React.</em></p>
-      <a href="https://business.sanjab.app" target="_blank"><img src="https://img.shields.io/badge/Business-business.sanjab.app-8E2DE2?style=flat-square&logo=vercel" alt="Sanjab Business" /></a>
-      <a href="https://customer.sanjab.app" target="_blank"><img src="https://img.shields.io/badge/Customer-customer.sanjab.app-4A00E0?style=flat-square&logo=react" alt="Sanjab Customer" /></a>
+    <td width="50%" valign="top">
+      <h3>🏢 Sanjab Customer Club</h3>
+      <p>A comprehensive loyalty platform empowering businesses to manage transactions, discounts, and customer rewards.</p>
+      <p><strong>Stack:</strong> Vue.js (Business), React + PWA (Customer)</p>
+      <a href="https://business.sanjab.app"><img src="https://img.shields.io/badge/Business_Panel-111111?style=for-the-badge&logo=vercel&logoColor=8E2DE2" /></a>
+      <a href="https://customer.sanjab.app"><img src="https://img.shields.io/badge/Customer_PWA-111111?style=for-the-badge&logo=vercel&logoColor=4A00E0" /></a>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <h3>KosarEgg Admin Panel</h3>
-      <p>Internal management dashboard for the Kausar Egg Store to handle orders, inventory, and departments efficiently. Built with React.</p>
+    <td width="50%" valign="top">
+      <h3>🥚 KosarEgg Main Platform</h3>
+      <p>A high-performance public-facing website optimized for SEO, featuring homepage, blog, and contact routing.</p>
+      <p><strong>Stack:</strong> Next.js</p>
     </td>
-    <td align="center">
-      <h3>KosarEgg Main Website</h3>
-      <p>Public-facing e-commerce front containing homepage, blog, and information pages. Implemented in Next.js for optimal performance and SEO.</p>
+    <td width="50%" valign="top">
+      <h3>🛡️ KosarEgg Admin Panel</h3>
+      <p>A secure management dashboard for overseeing orders, inventory, and departmental routing for the Kausar Egg Store.</p>
+      <p><strong>Stack:</strong> React</p>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- ==============================
-  SECTION: Developer Metrics
-  ============================== -->
-## 📊 Developer Metrics & Activity
+## ✦ Developer Analytics
 
-Real-time insights into my coding velocity, consistency, and problem-solving skills.
-
-<!-- GitHub Stats & Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramin-Joshang&show_icons=true&count_private=true&hide_border=true&title_color=8E2DE2&icon_color=4A00E0&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramin-Joshang&hide_border=true&stroke=8E2DE2&ring=8E2DE2&fire=8E2DE2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8E2DE2&sideLabels=c9d1d9&dates=c9d1d9&background=0d1117" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramin-Joshang&show_icons=true&count_private=true&hide_border=true&title_color=8E2DE2&icon_color=4A00E0&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramin-Joshang&hide_border=true&stroke=8E2DE2&ring=8E2DE2&fire=8E2DE2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8E2DE2&sideLabels=c9d1d9&dates=c9d1d9&background=0d1117" alt="GitHub Streak" width="48%" />
 </p>
 
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramin-Joshang&layout=compact&hide_border=true&title_color=8E2DE2&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-</p>
-
-<!-- Coding Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramin-Joshang&theme=react-dark&hide_border=true&area=true&color=8E2DE2&line=8E2DE2&point=4A00E0&area_opacity=0.3" width="100%" alt="Activity Graph" />
-</p>
-
-<!-- Contribution Snake -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ramin-Joshang/Ramin-Joshang/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ramin-Joshang/Ramin-Joshang/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Ramin-Joshang/Ramin-Joshang/output/github-contribution-grid-snake-dark.svg" width="80%" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Ramin-Joshang/Ramin-Joshang/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </p>
 
-<!-- WakaTime -->
-<
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://leetcard.jacoblin.cool/RaminJoshang?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://wakatime.com/@RaminJoshang" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RaminJoshang&hide_border=true&title_color=8E2DE2&text_color=c9d1d9&bg_color=0d1117&layout=compact" alt="WakaTime Stats" width="100%" />
+      </a>
+      <br/><br/>
+      <img src="https://www.codewars.com/users/RaminJoshang/badges/large" alt="Codewars Badge" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <p>
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID_HERE&redirect=true">
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID_HERE&cover_image=true&theme=novatorem&bar_color=8E2DE2&bar_color_cover=false" alt="Spotify Now Playing" width="400" />
+    </a>
+  </p>
+  <p><i>Replace <code>YOUR_SPOTIFY_USER_ID_HERE</code> in the README source to activate rich presence.</i></p>
+
+  <br/>
+
+  <a href="https://www.buymeacoffee.com/raminjoshang" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" width="100%"/>
+</p>
