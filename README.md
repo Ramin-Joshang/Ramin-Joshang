@@ -1,19 +1,27 @@
 <!--
-  Ramin Joshang — GitHub Profile README
-  Redesigned for a distinct visual identity + live, self-updating widgets.
-  See the "Setup Notes" comment block near the bottom for the few things
-  you need to plug in (LinkedIn, Spotify, the metrics workflow).
+  Ramin Joshang — GitHub Profile README (v2)
+
+  WHY THIS VERSION IS DIFFERENT:
+  Most of the images in the previous version were broken because they
+  depended on free third-party services that are dead or flaky:
+    - readme-typing-svg.herokuapp.com  -> killed when Heroku dropped free
+      dynos in Nov 2022 (confirmed dead, moved to a new unofficial domain)
+    - github-readme-streak-stats.herokuapp.com -> same Heroku problem
+    - techstack-generator.vercel.app   -> widely reported as discontinued
+  This version replaces those with FIVE custom animated SVGs (hero banner,
+  typing tagline, skill bars, terminal widget, footer) that are fully
+  self-contained — no external API calls, no third-party servers, nothing
+  that can go down. They just need to live in YOUR repo. See "SETUP" at
+  the bottom — it's a 2-minute job.
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,25:2C5364,50:00DBDE,100:FC00FF&height=230&section=header&text=RAMIN%20JOSHANG&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%2F%20Next.js%20%2F%20Node&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Ramin-Joshang/Ramin-Joshang/main/assets/hero-banner.svg" width="100%"/>
 </p>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=00DBDE&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;React+%26+Next.js+Specialist;Node.js+%2F+Express+%2F+GraphQL;Turning+Coffee+into+Code+%E2%98%95;Always+Shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ramin-Joshang/Ramin-Joshang/main/assets/typing-tagline.svg"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ramin-Joshang&label=PROFILE%20VIEWS&color=FC00FF&style=for-the-badge" alt="Profile Views"/>
@@ -22,17 +30,13 @@
   <a href="https://t.me/RaminJoshang"><img src="https://img.shields.io/badge/Telegram-@RaminJoshang-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <!-- 🔧 Replace with your real LinkedIn handle -->
   <a href="https://www.linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
+</p>
 
 <br>
 
-```bash
-ramin@dev:~$ whoami
-> Full Stack Developer • ~3 yrs experience • Qazvin, Iran
-> Stack: React · Next.js · TypeScript · Node.js · GraphQL · SQL Server · MongoDB
-> Currently: building fast, clean, user-centric web apps
-> Fun fact: I ship side projects faster than I finish my coffee ☕
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ramin-Joshang/Ramin-Joshang/main/assets/terminal-widget.svg"/>
+</p>
 
 ---
 
@@ -53,20 +57,9 @@ ramin@dev:~$ whoami
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,graphql,mongodb,postgres,tailwind,bootstrap,materialui,vuejs,git,github,figma,docker,linux,vscode,vercel&perline=10" />
 </p>
 
-<details>
-<summary><b>📦 Breakdown by category</b></summary>
-<br>
-
-| Category | Tools |
-|---|---|
-| **Languages** | TypeScript, JavaScript, Python |
-| **Frontend** | React.js, Next.js, Vue.js, Redux, TanStack Query |
-| **Styling / UI** | Tailwind CSS, Bootstrap, Material‑UI, Shadcn/UI, Ant Design |
-| **Backend** | Node.js, Express, GraphQL, REST APIs |
-| **Databases** | SQL Server, MongoDB, PostgreSQL |
-| **DevOps / Tools** | Git, Docker, Vercel, Figma, VS Code |
-
-</details>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ramin-Joshang/Ramin-Joshang/main/assets/skill-bars.svg" width="90%"/>
+</p>
 
 ---
 
@@ -100,7 +93,7 @@ ramin@dev:~$ whoami
 </td></tr>
 </table>
 
-> ℹ️ *Heads up: your original dates had Techa (Jan 2024–Apr 2026) overlapping with Barazman (Aug 2023–Oct 2025). I adjusted them to be sequential above — swap in your real end dates.*
+> ℹ️ *Your original dates had Techa (2024–2026) overlapping Barazman (2023–2025). Adjusted to be sequential above — put your real dates back in.*
 
 ---
 
@@ -149,7 +142,7 @@ Public‑facing site with homepage, blog, contact & about pages. Built with **Ne
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ramin-Joshang&show_icons=true&count_private=true&hide_border=true&title_color=00DBDE&icon_color=FC00FF&text_color=c9d1d9&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramin-Joshang&hide_border=true&stroke=00DBDE&ring=FC00FF&fire=FC00FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00DBDE&sideLabels=c9d1d9&background=0d1117" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Ramin-Joshang&hide_border=true&stroke=00DBDE&ring=FC00FF&fire=FC00FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00DBDE&sideLabels=c9d1d9&background=0d1117" width="48%" />
 </p>
 
 <p align="center">
@@ -166,17 +159,19 @@ Public‑facing site with homepage, blog, contact & about pages. Built with **Ne
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ramin-Joshang/Ramin-Joshang/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
+> 🔧 The streak-stats badge above uses `streak-stats.demolab.com` (the live successor of the old dead Heroku domain). The snake graphic needs `snake.yml` — see Setup.
+
 ---
 
 ## 🌌 All‑in‑One Metrics Dashboard
 
-This is the part that actually makes a profile stand out: a **single, rich, self‑updating dashboard** (isometric contribution calendar, coding habits, achievements, star history, etc.) generated by a GitHub Action you own — instead of stacking a dozen separate badge widgets.
+The most reliable "wow" piece here: a single rich dashboard (isometric contribution calendar, coding habits, achievements, language breakdown, star history) generated by a GitHub Action **you own**, hosted on `raw.githubusercontent.com` — GitHub's own domain, not a third-party server that can go down or get blocked.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ramin-Joshang/Ramin-Joshang/main/github-metrics.svg" width="100%"/>
 </p>
 
-> 🔧 **Setup required** — see `metrics.yml` in this download and the Setup Notes below. Takes about 5 minutes.
+> 🔧 Needs `metrics.yml` — see Setup below.
 
 ---
 
@@ -219,29 +214,46 @@ This is the part that actually makes a profile stand out: a **single, rich, self
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,25:2C5364,50:00DBDE,100:FC00FF&height=120&section=footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Ramin-Joshang/Ramin-Joshang/main/assets/footer-banner.svg" width="100%"/>
 </p>
 
 <!--
-============================== SETUP NOTES ==============================
-1. LinkedIn: replace "REPLACE_ME" in the LinkedIn badge URL near the top.
-2. Spotify: replace "YOUR_SPOTIFY_USER_ID" (get it from
-   https://spotify-github-profile.vercel.app/) in the "Now Playing" section.
-3. Employment dates: I fixed the overlap between Techa and Barazman by
-   guessing sequential dates — put your real ones back in.
-4. Metrics dashboard (the coolest new piece):
-   a. In THIS profile repo (Ramin-Joshang/Ramin-Joshang), go to
-      Settings → Secrets and variables → Actions → New repository secret.
-      Name it METRICS_TOKEN, value = a Personal Access Token with
-      "repo" scope (classic PAT) or fine-grained equivalent.
-   b. Add the included metrics.yml file to .github/workflows/metrics.yml
-      in this repo, then commit.
-   c. The action (lowlighter/metrics) will run on a schedule and push
-      github-metrics.svg to your repo, which the dashboard section above
-      already points to.
-   d. Docs / more plugins: https://github.com/lowlighter/metrics
-5. Contribution snake (github-contribution-grid-snake-dark.svg): needs
-   its own tiny separate workflow (Platane/snk) — let me know if you
-   want that file too; it's a 15-line addition.
-===========================================================================
+================================ SETUP =====================================
+STEP 1 — Push the animated assets (fixes almost everything that was broken)
+  In your Ramin-Joshang/Ramin-Joshang repo, create a folder named `assets/`
+  at the root and add these 5 files (all included in this download):
+    assets/hero-banner.svg
+    assets/typing-tagline.svg
+    assets/terminal-widget.svg
+    assets/skill-bars.svg
+    assets/footer-banner.svg
+  Commit + push to the `main` branch. They render immediately, animate on
+  their own (SMIL/CSS, no JS needed), and never go down because they live
+  on GitHub's own raw content CDN instead of a random vercel/heroku app.
+
+STEP 2 — Fill in your real info
+  - LinkedIn badge: replace "REPLACE_ME" near the top.
+  - Spotify "Now Playing": replace "YOUR_SPOTIFY_USER_ID" (get it at
+    https://spotify-github-profile.vercel.app/).
+  - Employment dates: I fixed an overlap between Techa and Barazman by
+    guessing sequential dates — put your real end dates back in.
+
+STEP 3 — Metrics dashboard (github-metrics.svg)
+  a. Repo Settings → Secrets and variables → Actions → New repository
+     secret → name it METRICS_TOKEN → value = a classic Personal Access
+     Token with "repo" scope.
+  b. Add the included metrics.yml as .github/workflows/metrics.yml,
+     commit. It runs every 6h and pushes github-metrics.svg to your repo.
+  c. Docs / more plugins: https://github.com/lowlighter/metrics
+
+STEP 4 — Contribution snake
+  Add the included snake.yml as .github/workflows/snake.yml, commit.
+  No secret needed — uses the default GITHUB_TOKEN. It pushes the two
+  snake SVGs to an `output` branch, which the README already points to.
+
+That's it — after these four steps, every single image in this README
+is either self-hosted by you (assets/, github-metrics.svg, the snake) or
+comes from shields.io / skillicons.dev / github-readme-stats, which are
+the most reliable of the third-party options left.
+=============================================================================
 -->
